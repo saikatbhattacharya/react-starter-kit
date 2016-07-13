@@ -8,3 +8,4 @@
 5. [Babel] (https://babeljs.io/)
 6. [npm sripting] (http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
 7. [react with redux] (https://css-tricks.com/learning-react-redux/)
+8. [html to jsx converter] (http://magic.reactjs.net/htmltojsx.htm)
